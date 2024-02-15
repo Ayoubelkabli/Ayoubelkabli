@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayoub El kabli
+- 👋 Hi, I’m Ayoub El kabli, a junior full-stack developer 🚀
 - 👀 I’m interested in web developmentand and building innovative solutions.
 - 🌱 I’m currently learning React.js and Node.js to enhance my full-stack development skills
 - 💞️  I’m looking to collaborate on open-source projects and web development initiatives.
